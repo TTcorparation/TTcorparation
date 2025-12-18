@@ -111,18 +111,6 @@
   <a href="https://github.com/TTcorparation/TTcorparation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTcorparation&repo=TTcorparation&theme=dracula&show_owner=true" height="120" />
   </a>
-  
-  <a href="https://github.com/TTcorparation/ваш-проект">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTcorparation&repo=ваш-проект&theme=dracula&show_owner=true" height="120" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TTcorparation/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
