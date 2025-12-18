@@ -16,6 +16,12 @@
   <a href="https://t.me/+wQvM424Mn1UxNzBi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="https://ttcorparation.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=github&label=TT Corporation&color=0A2463&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+  </a>
+  <a href="https://dalink.to/ttcorparation" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Donate&logo=donationalerts&label=Поддержать&color=F7931A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="donate logo"  />
+  </a>
 </div>
 
 ###
@@ -56,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
 </div>
 
 ###
