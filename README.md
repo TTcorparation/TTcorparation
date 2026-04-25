@@ -96,23 +96,6 @@
 ###
 
 <div align="center">
-  <h3>📫 Как связаться:</h3>
-</div>
-
-###
-
-<div align="center">
-  <p style="text-align: center;">
-    • Telegram: <a href="https://t.me/+wQvM424Mn1UxNzBi" target="_blank">ttcorparation</a><br>
-    • Сайт компании: <a href="https://ttcorparation.github.io" target="_blank">TT Corporation</a><br>
-    • GitHub: <a href="https://github.com/TTcorparation" target="_blank">TTcorparation</a><br>
-    • Поддержать: <a href="https://dalink.to/ttcorparation" target="_blank">Donation</a><br>
-  </p>
-</div>
-
-###
-
-<div align="center">
   <p><em>"Код — это поэзия технологий. В TT Corporation мы пишем стихи на языках программирования."</em></p>
 </div>
 
