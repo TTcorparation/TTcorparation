@@ -16,33 +16,37 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="45%" valign="top" style="border: none;">
-      <h3 align="center">🚀 Обо мне</h3>
-      <ul align="left">
-        <li>🌱 <b>Изучаю:</b> Python, Java, C++, Rust, Web</li>
-        <li>🛠 <b>Создаю:</b> Инструменты автоматизации и Open-Source</li>
-        <li>🌐 <b>Браузер:</b> Libre Wolf</li>
-        <li>⚙️ <b>Среда разработки:</b> VS Codium</li>
-        <li>🐧 <b>Дистрибутив линукс:</b> <span style="color: #2ECC71; font-family: monospace; background: #222; padding: 2px 4px; border-radius: 3px;">I use Arch btw</span></li>
-        <li>🎯 <b>Цель:</b> Senior Developer к 18 годам</li>
-        <li>🏆 <b>Достижения:</b> 10+ завершенных проектов</li>
-      </ul>
-      <p align="center">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=TTcorparation.TTcorparation&" />
-      </p>
-    </td>
-    <td width="5%" style="border: none;"></td>
-    <td width="45%" valign="top" style="border: none;">
-      <h3 align="center">🛠 Мой стек</h3>
-      <br />
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css,postgres,linux,git,github,vscode,pycharm,rust,go,fastapi,sqlite,docker&perline=6" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="max-width: 900px;">
+
+  <div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3 align="center">🚀 Обо мне</h3>
+    <ul>
+      <li>🌱 <b>Изучаю:</b> Python, Java, C++, Rust, Web</li>
+      <li>🛠 <b>Создаю:</b> Инструменты автоматизации и Open-Source</li>
+      <li>🌐 <b>Браузер:</b> Libre Wolf</li>
+      <li>⚙️ <b>Среда разработки:</b> VS Codium</li>
+      <li>🐧 <b>Дистрибутив линукс:</b> <span style="color: #2ECC71; font-family: monospace; background: #222; padding: 2px 4px; border-radius: 3px;">I use Arch btw</span></li>
+      <li>🎯 <b>Цель:</b> Senior Developer к 18 годам</li>
+      <li>🏆 <b>Достижения:</b> 10+ завершенных проектов</li>
+    </ul>
+    <p align="center">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=TTcorparation.TTcorparation&" />
+    </p>
+  </div>
+
+  <div style="display: inline-block; width: 4%;"></div>
+
+  <div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
+    <h3 align="center">🛠 Мой стек</h3>
+    <br>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css,postgres,linux,git,github,vscode,pycharm,rust,go,fastapi,sqlite,docker&perline=5" />
+    </p>
+  </div>
+
+</div>
+
+<br clear="both">
 
 ---
 
