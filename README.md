@@ -4,7 +4,11 @@
   <h3>15 y.o. | 7 years in dev | Founder of TT Corporation</h3>
   <p>
     <a href="https://t.me/+wQvM424Mn1UxNzBi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
-    <a href="https://ttc.vercel.app"><img src="https://img.shields.io/badge/Website-0A2463?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
+    <a href="https://ttc.vercel.app">
+  <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F-Stolen%20Website-red?style=for-the-badge" height="25" />
+</a>
+</a>
+</a>
   </p>
 </div>
 
